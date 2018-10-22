@@ -1,4 +1,4 @@
-# build  and run  mysql container by Initialize script of the sql
+# build  and run  mysql container by initialize script of the sql
 
 
 ## build own mysql image
